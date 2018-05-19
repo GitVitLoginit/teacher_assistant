@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\bin\Debug\PluginInterfaces1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\bin\Debug\PluginInterfaces1.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\bin\Debug\MilitaryUnits.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\bin\Debug\PluginInterfaces.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\bin\Debug\MilitaryUnits.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\bin\Debug\PluginInterfaces.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\obj\Debug\PluginInterfaces1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\obj\Debug\PluginInterfaces1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces1\obj\Debug\PluginInterfaces1.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\PluginInterfaces1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\PluginInterfaces1.pdb

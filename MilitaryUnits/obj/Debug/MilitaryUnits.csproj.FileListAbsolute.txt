@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\MilitaryUnits.exe.config
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\MilitaryUnits.exe
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\MilitaryUnits.pdb
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\obj\Debug\MilitaryUnits.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\obj\Debug\MilitaryUnits.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\obj\Debug\MilitaryUnits.exe
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\obj\Debug\MilitaryUnits.pdb
+\\mac\home\documents\visual studio 2015\Projects\MilitaryUnits\MilitaryUnits\obj\Debug\MilitaryUnits.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\obj\Debug\MilitaryUnits.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\PluginInterfaces.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\InterfacesDescriptions.pdb

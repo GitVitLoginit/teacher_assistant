@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDetachment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>ewd</typeOfArmy>
+    <TypeOfArmy>ewd</TypeOfArmy>
+    <Task>ewd</Task>
+    <Staff>ewd</Staff>
+  </Detachment>
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>ewd</typeOfArmy>
+    <TypeOfArmy>ewd</TypeOfArmy>
+    <Task>ewd</Task>
+    <Staff>ewd</Staff>
+  </Detachment>
+  <Detachment xsi:type="Battalion">
+    <PostOfCommander>Lieutenant colonel</PostOfCommander>
+    <MinNumberOfUnits>100</MinNumberOfUnits>
+    <MaxNumberOfUnits>900</MaxNumberOfUnits>
+    <NumberOfUnits>500</NumberOfUnits>
+    <typeOfArmy>ewd</typeOfArmy>
+    <TypeOfArmy>ewd</TypeOfArmy>
+    <Task>ewd</Task>
+    <Staff>ewd</Staff>
+  </Detachment>
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>ewf</typeOfArmy>
+    <TypeOfArmy>ewf</TypeOfArmy>
+    <Task>wef</Task>
+    <Staff>wef</Staff>
+  </Detachment>
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>ewf</typeOfArmy>
+    <TypeOfArmy>ewf</TypeOfArmy>
+    <Task>wef</Task>
+    <Staff>wef</Staff>
+  </Detachment>
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>ewf</typeOfArmy>
+    <TypeOfArmy>ewf</TypeOfArmy>
+    <Task>wef</Task>
+    <Staff>wef</Staff>
+  </Detachment>
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>ewf</typeOfArmy>
+    <TypeOfArmy>ewf</TypeOfArmy>
+    <Task>wef</Task>
+    <Staff>wef</Staff>
+  </Detachment>
+</ArrayOfDetachment>

@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\PluginInterfaces.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\PluginInterfaces.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces\obj\Debug\PluginInterfaces.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces\obj\Debug\PluginInterfaces.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\PluginInterfaces\obj\Debug\PluginInterfaces.csprojResolveAssemblyReference.cache

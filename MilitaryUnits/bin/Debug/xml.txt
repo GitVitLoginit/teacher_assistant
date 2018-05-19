@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfDetachment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Detachment xsi:type="Regiment">
+    <PostOfCommander>Colonel</PostOfCommander>
+    <MinNumberOfUnits>900</MinNumberOfUnits>
+    <MaxNumberOfUnits>2000</MaxNumberOfUnits>
+    <NumberOfUnits>1450</NumberOfUnits>
+    <typeOfArmy>wef</typeOfArmy>
+    <TypeOfArmy>wef</TypeOfArmy>
+    <Task>wef</Task>
+    <Staff>wef</Staff>
+  </Detachment>
+  <Detachment xsi:type="Battalion">
+    <PostOfCommander>Lieutenant colonel</PostOfCommander>
+    <MinNumberOfUnits>100</MinNumberOfUnits>
+    <MaxNumberOfUnits>900</MaxNumberOfUnits>
+    <NumberOfUnits>500</NumberOfUnits>
+    <typeOfArmy>wef</typeOfArmy>
+    <TypeOfArmy>wef</TypeOfArmy>
+    <Task>wef</Task>
+    <Staff>wef</Staff>
+  </Detachment>
+</ArrayOfDetachment>

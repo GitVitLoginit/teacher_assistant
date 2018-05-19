@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\InterfacesDescriptions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\MilitaryUnits\bin\Debug\InterfacesDescriptions.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\InterfacesDescriptions\obj\Debug\InterfacesDescriptions.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\InterfacesDescriptions\obj\Debug\InterfacesDescriptions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\MilitaryUnits\InterfacesDescriptions\obj\Debug\InterfacesDescriptions.pdb
